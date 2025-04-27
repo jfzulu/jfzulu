@@ -1,33 +1,77 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jose Zuluaga
-====================================================================================================================================
+<!-- Imagen de portada -->
+<img src="https://i.imgur.com/your-banner-image.png" alt="Banner" width="100%">
 
-Systems Engineer & Software Developer
--------------------------------------
+# 👋 ¡Hola! Soy Jose Fernando Zuluaga Ortiz
 
-* 🌍  I'm based in Colombia
-* ✉️  You can contact me at [jfzulu.dev@gmail.com](mailto:jfzulu.dev@gmail.com)
-* 🧠  I'm learning Nodejs, Astro
+🎯 **Ingeniero de Sistemas** apasionado por el **desarrollo de software** y el **aprendizaje continuo**.
 
-### Skills
+- 📍 Bogotá, Colombia
+- 🔭 Actualmente explorando **Node.js** y **Astro**.
+- 🎓 Especialista en **C++**, **Java**, **Python** y más.
+- 📬 Contacto: jfzulu.dev@gmail.com
 
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+## 🧠 Sobre mí
 
+> _"La programación no es solo código, es una forma de pensar."_  
+> _"Cada línea es un pequeño paso hacia un gran proyecto."_  
+> _"Nunca dejes de aprender, nunca dejes de crear."_
 
-### Socials
+*(Citas simuladas en forma de carrusel)*
 
-<p align="left"> <a href="https://www.github.com/jfzulu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+## 🛠️ Tecnologías y herramientas
 
-<a href="https://github.com/jfzulu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfzulu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</div>
 
-<b>Top Repositories</b>
+---
 
-<div width="100%" align="center"><a href="https://github.com/jfzulu/java" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jfzulu&repo=java&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jfzulu/python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jfzulu&repo=python&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+## 🚀 Proyectos destacados
 
-<br /><br /><br /><br /><br />
+| Proyecto | Descripción | Tecnologías |
+|:---|:---|:---|
+| [Patrones de Diseño](https://github.com/jfzulu/recursos) | Implementaciones de patrones de diseño en software. | C++, Java |
+| [Sistema Universitario](https://github.com/jfzulu/university-system) | Simulación de un sistema académico usando Java y MySQL. | Java, MySQL |
+| [Algoritmos](https://github.com/jfzulu/algoritmos) | Análisis y soluciones de algoritmos clásicos. | C++, Python |
 
-<div width="100%" align="center"><a href="https://github.com/jfzulu/cplusplus" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jfzulu&repo=cplusplus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+---
+
+## 📫 Conecta conmigo
+
+<div align="center">
+  <a href="mailto:jfzulu.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/josefernandozuluaga/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jfzulu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 📈 Estadísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jfzulu&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jfzulu&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+<!-- Footer o cita -->
+<div align="center">
+  <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
+</div>
