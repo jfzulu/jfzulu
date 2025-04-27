@@ -1,5 +1,5 @@
 <!-- Imagen de portada -->
-<img src="https://i.imgur.com/FHTS7OV.png" alt="Banner" width="100%">
+<img src="https://i.imgur.com/0Dc5VNq.png" alt="Banner" width="100%">
 
 # 👋 ¡Hola! Soy Jose Fernando Zuluaga Ortiz
 
