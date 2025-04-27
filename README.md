@@ -39,8 +39,8 @@
 
 | Proyecto | Descripción | Tecnologías |
 |:---|:---|:---|
-| [Patrones de Diseño](https://github.com/jfzulu/recursos) | Implementaciones de patrones de diseño en software. | C++, Java |
-| [Sistema Universitario](https://github.com/jfzulu/university-system) | Simulación de un sistema académico usando Java y MySQL. | Java, MySQL |
+| [Portfolio Personal](https://github.com/jfzulu/portfolio-jfzulu) | Mi portafolio personal en la web, te va a encantar. | Typescript, React, Tailwind |
+| [Gestión de farmacia](https://github.com/jfzulu/gestion-farmacia) | Sistema para la administración de farmacia. | React, Typescript, Taildwind |
 | [Algoritmos](https://github.com/jfzulu/algoritmos) | Análisis y soluciones de algoritmos clásicos. | C++, Python |
 
 ---
@@ -51,7 +51,7 @@
   <a href="mailto:jfzulu.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/josefernandozuluaga/" target="_blank">
+  <a href="https://www.linkedin.com/in/jfzulu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/jfzulu" target="_blank">
