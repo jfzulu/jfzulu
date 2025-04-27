@@ -1,5 +1,5 @@
 <!-- Imagen de portada -->
-<img src="https://i.imgur.com/your-banner-image.png" alt="Banner" width="100%">
+<img src="https://i.imgur.com/FHTS7OV.png" alt="Banner" width="100%">
 
 # 👋 ¡Hola! Soy Jose Fernando Zuluaga Ortiz
 
@@ -18,8 +18,6 @@
 > _"Cada línea es un pequeño paso hacia un gran proyecto."_  
 > _"Nunca dejes de aprender, nunca dejes de crear."_
 
-*(Citas simuladas en forma de carrusel)*
-
 ---
 
 ## 🛠️ Tecnologías y herramientas
@@ -28,10 +26,11 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </div>
 
 ---
@@ -66,12 +65,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jfzulu&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jfzulu&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-<!-- Footer o cita -->
-<div align="center">
-  <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jfzulu&theme=radical" alt="GitHub
